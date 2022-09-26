@@ -284,7 +284,7 @@ la curvatura de la</text>
 	<text transform="matrix(1 0 0 1 35.5477 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Curvatura</tspan><tspan x="0" y="16.8" class="st0 st10 st22">normal</tspan></text>
 </g>
 <g class="st9">
-	<text transform="matrix(1 0 0 1 119.7963 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Curvatura</tspan><tspan x="0" y="16.8" class="st0 st10 st22">extema</tspan></text>
+	<text transform="matrix(1 0 0 1 119.7963 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Curvatura</tspan><tspan x="0" y="16.8" class="st0 st10 st22">curvature</tspan></text>
 </g>
 <line class="st23" x1="134.7" y1="790.23" x2="174.8" y2="750.13"/>
 <g>
