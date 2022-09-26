@@ -85,7 +85,7 @@
 <image style="overflow:visible;" width="850" height="1275" xlink:href="../img/woman-mobile-m.png" transform="matrix(0.4707 0 0 0.4707 10.2621 209.8631)">
 </image>
 <g>
-	<text transform="matrix(1 0 0 1 128.3554 79.7145)" class="st0 st1 st2">COMMON PROBLEMS</text>
+	<text transform="matrix(1 0 0 1 128.3554 79.7145)" class="st0 st1 st2">PROBLEMAS COMUNES</text>
 </g>
 <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="96.35" y1="-1295.6" x2="96.35" y2="-1530.425" gradientTransform="matrix(1 0 0 1 0 1890)">
 	<stop  offset="0" style="stop-color:#FFFFFF"/>
@@ -134,15 +134,15 @@
 <text transform="matrix(1 0 0 1 212.5 204.6341)" class="st0 st1 st8">Chronic </text>
 <text transform="matrix(1 0 0 1 212.5 222.2181)" class="st0 st1 st8">headaches </text>
 <g class="st9">
-	<text transform="matrix(1 0 0 1 295.3881 298.252)" class="st0 st10 st11">Difficulty turning</text>
+	<text transform="matrix(1 0 0 1 295.3881 298.252)" class="st0 st10 st11">Dificultad para girar</text>
 </g>
 <g class="st9">
-	<text transform="matrix(1 0 0 1 295.3881 314.2637)" class="st0 st10 st11">the head</text>
+	<text transform="matrix(1 0 0 1 295.3881 314.2637)" class="st0 st10 st11">la cabeza</text>
 </g>
 <g class="st9">
 	<g>
-		<text transform="matrix(1 0 0 1 46.8774 437.2039)" class="st0 st10 st11">Tight</text>
-		<text transform="matrix(1 0 0 1 33.9648 453.2156)" class="st0 st10 st11">muscles</text>
+		<text transform="matrix(1 0 0 1 46.8774 437.2039)" class="st0 st10 st11">apretada</text>
+		<text transform="matrix(1 0 0 1 33.9648 453.2156)" class="st0 st10 st11">músculos</text>
 	</g>
 </g>
 <g class="st9">
@@ -185,13 +185,14 @@
 	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 321.8594 412.3972)" class="st0 st1 st8">Blurred</text>
-	<text transform="matrix(1 0 0 1 321.8594 432.5086)" class="st0 st1 st8">vision</text>
+	<text transform="matrix(1 0 0 1 321.8594 412.3972)" class="st0 st1 st8">Visión</text>
+	<text transform="matrix(1 0 0 1 321.8594 432.5086)" class="st0 st1 st8">borrosa</text>
 </g>
 <g>
 	<rect x="53.3" y="93.71" class="st4" width="328.93" height="34.55"/>
-	<text transform="matrix(1 0 0 1 59.8082 105.711)" class="st0 st14 st8">Excessive use of mobile phones can increase </text>
-	<text transform="matrix(1 0 0 1 84.8082 124.911)" class="st0 st14 st8">the risk of developing health problems</text>
+	<text transform="matrix(1 0 0 1 59.8082 105.711)" class="st0 st14 st8">
+El uso excesivo de teléfonos móviles puede aumentar</text>
+	<text transform="matrix(1 0 0 1 84.8082 124.911)" class="st0 st14 st8">el riesgo de desarrollar problemas de salud</text>
 </g>
 <g>
 	
@@ -206,8 +207,9 @@
 </g>
 <g>
 	<g>
-		<text transform="matrix(1 0 0 1 38.1392 703.1839)" class="st0 st1 st8">The spine's </text>
-		<text transform="matrix(1 0 0 1 38.1392 722.3839)" class="st0 st1 st8">curvature</text>
+		<text transform="matrix(1 0 0 1 38.1392 703.1839)" class="st0 st1 st8">
+la curvatura de la</text>
+		<text transform="matrix(1 0 0 1 38.1392 722.3839)" class="st0 st1 st8">columna vertebral</text>
 	</g>
 </g>
 <g>
@@ -279,10 +281,10 @@
 	</g>
 </g>
 <g class="st9">
-	<text transform="matrix(1 0 0 1 35.5477 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Normal</tspan><tspan x="0" y="16.8" class="st0 st10 st22">curvature</tspan></text>
+	<text transform="matrix(1 0 0 1 35.5477 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Curvatura</tspan><tspan x="0" y="16.8" class="st0 st10 st22">normal</tspan></text>
 </g>
 <g class="st9">
-	<text transform="matrix(1 0 0 1 119.7963 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Extreme</tspan><tspan x="0" y="16.8" class="st0 st10 st22">curvature</tspan></text>
+	<text transform="matrix(1 0 0 1 119.7963 895.0899)"><tspan x="0" y="0" class="st0 st10 st22">Curvatura</tspan><tspan x="0" y="16.8" class="st0 st10 st22">extema</tspan></text>
 </g>
 <line class="st23" x1="134.7" y1="790.23" x2="174.8" y2="750.13"/>
 <g>
